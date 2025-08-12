@@ -5,7 +5,7 @@ Modif. em:  12/08/2025
 
 Descrição:
 
-Este software é o sistema operacional do meu projeto chamado "Fibonacci". 
+Este software é o sistema operacional do meu projeto chamado "Strawberry". 
 Fibonacci é um pequeno computador que imita os computadores antigos como 
 o Macintosh, fabricado pela Apple em 1984. 
 
